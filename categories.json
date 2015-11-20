@@ -12,6 +12,7 @@
 				{"name": "ide", "description": "Integrated development environments"}
 			]},
 			{"name": "editor", "description": "Text editors"},
+			{"name": "emulation", "description": "Emulators of computers, game consoles, etc."},
 			{"name": "game", "description": "Games"},
 			{"name": "graphics", "description": "Graphics editing"},
 			{"name": "network", "description": "Network tools"},
